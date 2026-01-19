@@ -1,0 +1,10 @@
+id_cliente,data_compra,valor_compra,categoria
+1,2024-01-05,120.50,Eletronicos
+2,2024-01-07,80.00,Alimentos
+1,2024-01-15,250.00,Eletronicos
+3,2024-02-01,45.90,Vestuario
+2,2024-02-10,130.00,Eletronicos
+4,2024-02-15,75.00,Alimentos
+3,2024-03-02,210.00,Vestuario
+1,2024-03-10,60.00,Alimentos
+5,2024-03-15,320.00,Eletronicos
